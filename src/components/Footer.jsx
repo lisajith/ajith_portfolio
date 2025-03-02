@@ -100,10 +100,10 @@ const Footer = () => {
             </div>
 
             <div className="flex items-center justify-between pt-10">
-                <a href="" className=" mb-20">
+                <a href="" className="reveal-up mb-20">
                     <img src="images/logo.svg" height={40} width={40} alt="Logo"/>
                 </a>
-                <p className='text-zinc-500 text-sm  mb-20'>
+                <p className='text-zinc-500 text-sm reveal-up mb-20'>
                     &copy; {new Date().getFullYear()} <span className='text-zinc-200'>ajithkumarmalle</span>
                 </p>
             </div>
