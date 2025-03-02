@@ -29,7 +29,7 @@ const App = () => {
       gsap.to(element, {
         scrollTrigger: {
           trigger: element,
-          start: '-50 bottom',
+          start: '-75 bottom',
           end: 'bottom 80%',
           scrub: true
         },
@@ -41,6 +41,7 @@ const App = () => {
     })
   })
 
+  
   return (
     <ReactLenis root>
       <Header />
