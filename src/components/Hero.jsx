@@ -14,7 +14,7 @@ const Hero = () => {
             <div>
                 <div className='flex items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-lg'>
-                        <img className='img-cover' src='/images/dp1.jpg' alt='' height={40} width={40}/>
+                        <img className='img-cover' src='/images/dp.jpg' alt='' height={40} width={40}/>
                     </figure>
                     <div className='flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide'>
                         <span className='relative w-2 h-2 rounded-full bg-emerald-400'>
