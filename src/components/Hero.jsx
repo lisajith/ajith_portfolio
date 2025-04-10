@@ -14,7 +14,7 @@ const Hero = () => {
             <div>
                 <div className='flex items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-lg'>
-                        <img className='img-cover' src='/images/dp.jpg' alt='' height={40} width={40}/>
+                        <img className='img-cover' src='/images/dp1.jpg' alt='' height={40} width={40}/>
                     </figure>
                     <div className='flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide'>
                         <span className='relative w-2 h-2 rounded-full bg-emerald-400'>
@@ -33,7 +33,7 @@ const Hero = () => {
             </div>
             <div className="hidden lg:block">
                 <figure className='w-full max-w-[390px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% border-[2px] border-zinc-600 rounded-[30px] overflow-hidden'>
-                    <img className='w-full' src='images/blaa.png' alt='' width={50}/>
+                    <img className='w-full' src='images/blaaa.png' alt='' width={50}/>
                 </figure>
             </div>
         </div>
