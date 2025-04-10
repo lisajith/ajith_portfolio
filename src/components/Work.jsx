@@ -47,13 +47,13 @@ const works = [
     {
       imgSrc: '/images/project1.png',
       title: 'Personal portfolio',
-      tags: ['Web-design', 'Development', 'API'],
+      tags: ['Web-design', 'Development'],
       projectLink: 'https://ajithmalleportfolio.vercel.app'
     },
     {
       imgSrc: '/images/project2.png',
       title: 'Disney-2.0',
-      tags: ['Web-design', 'Development'],
+      tags: ['Web-design', 'Development', 'API'],
       projectLink: 'https://disney2-0.vercel.app'
     },
   ];
