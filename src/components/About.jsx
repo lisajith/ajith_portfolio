@@ -23,7 +23,9 @@ const About = () => {
         <div className='container'>
             <div className='bg-zinc-800/50 p-7 md:p-12 rounded-2xl reveal-up'>
                 <p className='text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]'>
-                    Welcome! This is Ajith Malle, a software web developer, I am a passionate and self-driven Computer Science Graduate with a strong interest in web development. I would like to create a responsive, and user-friendly websites using modern technologies like React JS and Tailwind CSS. I am willing to learn new tools and improve my skills. My goal is to grow as a productive and efficient software professional and contribute to meaningful software solutions while continuously learning and improving.
+                    Welcome! This is Ajith Malle, a software web developer
+                    with a knack for crafting visually stunning highly functional websites.
+                    Combining creativity and technical expertise that excels in both appearance and performance
                 </p>
                 <div className='flex flex-wrap items-center gap-4 md:gap-7'>
                     {
