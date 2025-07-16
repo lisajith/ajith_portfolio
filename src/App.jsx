@@ -46,7 +46,7 @@ const App = () => {
     <ReactLenis root>
       <Header />
       <main>
-        <h1 class="visuallyy-hidden">Ajith Malle Portfolio</h1>
+        <h1 class="visually-hidden">Ajith Malle Portfolio</h1>
         <Hero />
         <About />
         <Skill />
