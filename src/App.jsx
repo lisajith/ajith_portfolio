@@ -9,6 +9,7 @@ import ReactLenis from 'lenis/react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { useGSAP } from '@gsap/react'
+import { Helmet } from "react-helmet";
 
 gsap.registerPlugin(useGSAP, ScrollTrigger)
 
@@ -46,9 +47,12 @@ const App = () => {
     <ReactLenis root>
       <Header />
       <main>
-        <h1 className="visually-hidden">
-          Ajith Malle – Web Developer | Frontend React Developer | Ajith Krishiii Portfolio
-        </h1>
+        <Helmet>
+          <h1 className="visually-hidden">
+            Ajith Malle – Web Developer | Frontend React Developer | Ajith Krishiii Portfolio
+          </h1>
+          <meta name="google-site-verification" content="x8dEWxBeJ-IApySzU7tj-S6xWTZLU6qyEbVvN9YZ9kM" />
+        </Helmet>
 
         <Hero />
         <About />
