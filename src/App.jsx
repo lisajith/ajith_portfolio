@@ -52,6 +52,7 @@ const App = () => {
             Ajith Malle – Web Developer | Frontend React Developer | Ajith Krishiii Portfolio
           </h1>
           <meta name="google-site-verification" content="x8dEWxBeJ-IApySzU7tj-S6xWTZLU6qyEbVvN9YZ9kM" />
+          <meta name="description" content="This is Ajith Malle's portfolio site with projects, skills, and contact info." />
         </Helmet>
 
         <Hero />
