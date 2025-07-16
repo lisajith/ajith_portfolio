@@ -1,3 +1,5 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 Sitemap: https://ajithmalleportfolio.vercel.app/sitemap.xml
