@@ -47,6 +47,12 @@ const works = [
     {
       imgSrc: '/images/project1.png',
       title: 'Personal portfolio',
+      tags: ['Web-design', 'Development', 'Firebase'],
+      projectLink: 'https://syvalearn.vercel.app'
+    },
+    {
+      imgSrc: '/images/project1.png',
+      title: 'Personal portfolio',
       tags: ['Web-design', 'Development'],
       projectLink: 'https://ajithmalleportfolio.vercel.app'
     },
