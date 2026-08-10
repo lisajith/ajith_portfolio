@@ -45,8 +45,8 @@ const works = [
     //   projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
     // },
     {
-      imgSrc: '/images/project1.png',
-      title: 'Personal portfolio',
+      imgSrc: '/images/syva.png',
+      title: 'SyVA Virtual Academy',
       tags: ['Web-design', 'Development', 'Firebase'],
       projectLink: 'https://syvalearn.vercel.app'
     },
